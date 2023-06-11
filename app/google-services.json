@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120306619436",
+    "project_id": "granadilla-dd513",
+    "storage_bucket": "granadilla-dd513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120306619436:android:794124c74e87ce425bed89",
+        "android_client_info": {
+          "package_name": "com.example.sungansungan12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120306619436-a1gl4h1b0iol13vuqdp4a4m9hc5lg24m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sungansungan12",
+            "certificate_hash": "af11d1b5b55714190f04a75f2b2cd81a5ef6ee69"
+          }
+        },
+        {
+          "client_id": "120306619436-tg2qv0r0s7fnc180d2h2c6pmh0m8o5b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDw8W9n94cOw7sxlKf5sfIXqA6VLP91Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120306619436-tg2qv0r0s7fnc180d2h2c6pmh0m8o5b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
